@@ -1,5 +1,3 @@
-Using Machine Learning-powered Mental Health Tools for Stress Reduction and Anxiety Management
-=======================================================================================================================================================
 
 Artificial intelligence (AI) has the potential to significantly improve mental health by providing personalized support and resources. In this chapter, we will explore how organizations and individuals can leverage machine learning-powered mental health tools to reduce stress and manage anxiety.
 

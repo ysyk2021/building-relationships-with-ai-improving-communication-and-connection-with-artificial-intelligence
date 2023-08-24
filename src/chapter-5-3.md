@@ -1,5 +1,3 @@
-Personalizing Well-being Support with Machine Learning
-===============================================================================================================
 
 Artificial intelligence (AI) has the potential to significantly improve overall well-being by providing personalized support and resources. In this chapter, we will explore how organizations and individuals can leverage AI-powered tools to personalize well-being support using machine learning.
 

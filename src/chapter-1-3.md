@@ -1,5 +1,3 @@
-What You Can Expect from This Book
-================================================
 
 Artificial intelligence (AI) has the potential to transform the way we communicate with one another, enabling more personalized interactions and improving overall relationship-building efforts. However, incorporating AI into relationship building requires a careful approach that considers both the potential benefits and risks.
 

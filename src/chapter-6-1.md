@@ -1,5 +1,3 @@
-Addressing Concerns about Privacy, Bias, and Transparency when Using AI in Relationship Building
-======================================================================================================================================================================================================
 
 As with any new technology, there are ethical considerations that must be addressed when using artificial intelligence (AI) in relationship building. In this chapter, we will explore concerns about privacy, bias, and transparency, and how to address them when using AI in relationship building.
 

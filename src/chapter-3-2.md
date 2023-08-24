@@ -1,5 +1,3 @@
-Setting Goals and Defining Success Criteria
-======================================================================================================
 
 Artificial intelligence (AI) has the potential to transform relationship-building, but it is important to establish clear goals and success criteria when incorporating AI into relationship-building strategies. In this chapter, we will explore how organizations and individuals can set goals and define success criteria when integrating AI into relationship-building efforts.
 

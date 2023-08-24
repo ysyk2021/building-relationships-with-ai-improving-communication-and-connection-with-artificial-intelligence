@@ -1,5 +1,3 @@
-Aligning AI Strategy with Overall Relationship-Building Strategy
-===========================================================================================================================
 
 Artificial intelligence (AI) has the potential to transform relationship-building, but it is important to align AI strategy with overall relationship-building strategy. In this chapter, we will explore how organizations can create a vision for AI relationship building that aligns with their overall relationship-building strategy.
 

@@ -1,5 +1,3 @@
-What is AI and How Does it Work?
-===================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize the way we communicate with one another, but to effectively harness its power, it's important to understand what AI is and how it works.
 

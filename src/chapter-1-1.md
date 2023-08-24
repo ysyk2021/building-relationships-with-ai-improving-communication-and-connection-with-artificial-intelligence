@@ -1,5 +1,3 @@
-The Role of AI in Building Relationships
-======================================================
 
 Artificial intelligence (AI) has the potential to transform the way we build relationships, enabling more personalized interactions and improving overall communication. In this book, we will explore how organizations and individuals can effectively harness the power of AI to improve relationship-building efforts.
 
