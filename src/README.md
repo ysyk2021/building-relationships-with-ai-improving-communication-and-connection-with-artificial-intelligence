@@ -8,3 +8,7 @@ Throughout this book, we will delve into the intricacies of AI language processi
 Whether you are a business professional looking to improve your customer service experience or an individual interested in understanding the potential of AI for personal relationships, this book offers valuable insights and guidance on how to navigate this exciting new world of human-AI interaction.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
