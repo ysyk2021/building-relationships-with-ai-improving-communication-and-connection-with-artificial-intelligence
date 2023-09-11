@@ -1,5 +1,4 @@
-Chapter 4: Strategies for Promoting AI Adoption in Communication and Connection
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Integrating Artificial Intelligence (AI) into communication and connection processes is a transformative journey that requires careful planning and execution. In this chapter, we'll explore strategies for promoting AI adoption in various contexts to enhance communication and connection effectively.
 

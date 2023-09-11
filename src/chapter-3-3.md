@@ -1,5 +1,4 @@
-Chapter 5: Aligning AI Strategy with Overall Relationship-Building Strategy
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical process of aligning your AI strategy with your overarching relationship-building strategy. Building and maintaining strong connections with artificial intelligence (AI) requires a thoughtful and intentional approach. Whether you are a business leader, a technology enthusiast, or simply someone interested in improving communication and connection with AI, this chapter will provide valuable insights into creating synergy between your AI initiatives and your broader relationship-building goals.
 

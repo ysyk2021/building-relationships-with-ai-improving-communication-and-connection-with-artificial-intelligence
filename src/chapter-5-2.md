@@ -1,5 +1,4 @@
-Chapter 5: AI-Powered Personalized Coaching for Improving Self-Awareness and Emotional Intelligence
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) can be harnessed to provide personalized coaching aimed at enhancing self-awareness and emotional intelligence (EI). As AI continues to advance, it is increasingly being used to augment our understanding of ourselves and our interactions with others. This chapter delves into the transformative potential of AI in improving our emotional well-being and relationships.
 

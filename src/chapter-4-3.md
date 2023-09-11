@@ -1,5 +1,4 @@
-Chapter 6: Empowering Individuals to Use AI for Improved Relationship-Building
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In a world where Artificial Intelligence (AI) plays an increasingly significant role in relationship-building, it is vital to empower individuals to harness the power of AI to enhance their connections and communication. This chapter explores how individuals can leverage AI to improve their personal and professional relationships.
 

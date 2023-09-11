@@ -1,5 +1,4 @@
-Chapter 3: Setting Goals and Defining Success Criteria
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial process of setting clear goals and defining success criteria for building relationships with AI. Understanding what you aim to achieve and how you will measure success is fundamental to creating effective strategies for improving communication and connection with artificial intelligence (AI).
 

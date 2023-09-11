@@ -1,5 +1,4 @@
-Chapter 2: What is AI and How Does It Work?
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is at the heart of revolutionizing how we communicate and connect with one another. In this chapter, we'll explore the fundamental concepts of AI and gain an understanding of how it works.
 

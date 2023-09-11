@@ -1,5 +1,4 @@
-Chapter 8: Future Developments and Trends in AI-Powered Relationship Building
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The world of AI-powered relationship building is constantly evolving, driven by advancements in technology and the growing importance of artificial intelligence in our lives. In this chapter, we'll explore the exciting future developments and emerging trends that will shape the landscape of AI-powered communication and connection.
 

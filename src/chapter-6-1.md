@@ -1,5 +1,4 @@
-Chapter 7: Addressing Concerns about Privacy, Bias, and Transparency when Using AI in Relationship Building
-===========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As AI increasingly becomes a part of our efforts to build and maintain relationships, it brings forth critical concerns related to privacy, bias, and transparency. In this chapter, we'll delve into these concerns and explore strategies to address them, ensuring that AI-powered relationship building is ethical and responsible.
 

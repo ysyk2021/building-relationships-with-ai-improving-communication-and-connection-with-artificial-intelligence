@@ -1,5 +1,4 @@
-Chapter 6: Personalizing Well-being Support with Machine Learning
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll explore the transformative potential of machine learning in personalizing well-being support, leading to improved mental and emotional health. Machine learning algorithms, when applied thoughtfully, can help individuals navigate the complexities of well-being and enhance their overall quality of life.
 
